@@ -1,0 +1,16 @@
+{
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#38d438",
+    "titleBar.activeForeground": "#000000"
+  },
+  "launch": {
+    "configurations": [
+      {
+        "stopOnEntry": false,
+        "restart": true
+      }
+    ],
+    "compounds": []
+  },
+  "debug.node.autoAttach": "on"
+}
